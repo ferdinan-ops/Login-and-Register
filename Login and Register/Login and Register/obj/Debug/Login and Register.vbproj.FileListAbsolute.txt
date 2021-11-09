@@ -1,0 +1,2 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Login and Register\bin\Debug\Login and Register.exe.config
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Login and Register.exe.config
