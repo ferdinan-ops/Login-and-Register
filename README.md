@@ -1,4 +1,5 @@
 # Login and Register
+This is the login and register menu of the game dashboard that I made a few weeks ago using the vb.net programming language and with the visual studio 2012 software. I have made it as attractive as possible and usable.
 # How To Use
 1.
 2.
