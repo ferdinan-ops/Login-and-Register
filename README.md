@@ -1,5 +1,5 @@
 # Login and Register
-This is the login and register menu of the game dashboard that I made a few weeks ago using the vb.net programming language and with the visual studio 2012 software. I have made it as attractive as possible and usable.
+Login and register advanced projects from the game dashboard. I created a login and register form to complete the game dashboard that I have published. I also made a very attractive display design and matched the theme that I had created on the game project dashboard that I had created. This project is open to anyone who wants to develop it.
 
 # How To Use
 You can do the following steps:
