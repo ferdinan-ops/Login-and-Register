@@ -1,7 +1,7 @@
 # Login and Register
 Login and register advanced projects from the game dashboard. I created a login and register form to complete the game dashboard that I have published. I also made a very attractive display design and matched the theme that I had created on the game project dashboard that I had created. This project is open to anyone who wants to develop it.
 
-In this login and register project I use Microsoft Visual Studio 2012 with Visual Basic programming language, GUNA UI framework, and MySQL database.
+In this login and register project I use Microsoft Visual Studio 2012 for IDE with Visual Basic programming language for programing language, GUNA UI for framework, and MySQL for database.
 
 # How To Use
 You can do the following steps:
