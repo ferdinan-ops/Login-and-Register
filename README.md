@@ -13,13 +13,15 @@ In this login and register project I use Microsoft Visual Studio 2012 for IDE wi
 </ol>
 
 <h2>How To Use</h2>
-You can do the following steps:
-1. Download Visual Studio 2010/2012/2019
-2. Download Games-dashboard repository if you dont have it 
-3. Download this repository
-4. Add the framework GUNA UI that is in the repository to the visual studio software
-5. Open the "Login and Register" folder - scroll down and find the "file export database" folder and import to your database
-6. Find the "login_and_register" project in "Login and Register" folder and openthe file with visual stu
+<p>You can do the following steps:</p>
+<ol>
+  <li>Download Visual Studio 2010/2012/2019</li>
+  <li>Download Games-dashboard repository if you dont have it </li>
+  <li>Download this repository</li>
+  <li>Add the framework GUNA UI that is in the repository to the visual studio software</li>
+  <li>Open the "Login and Register" folder - scroll down and find the "file export database" folder and import to your database</li>
+  <li>Find the "login_and_register" project in "Login and Register" folder and openthe file with visual studio</li>
+</ol>
 
 <h1>ScreenShoots</h1>
 
