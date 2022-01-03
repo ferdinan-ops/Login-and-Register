@@ -35,6 +35,7 @@ Partial Class sign_in
         '
         'GunaButton1
         '
+        Me.GunaButton1.Animated = True
         Me.GunaButton1.AnimationHoverSpeed = 0.07!
         Me.GunaButton1.AnimationSpeed = 0.03!
         Me.GunaButton1.BackColor = System.Drawing.Color.Transparent

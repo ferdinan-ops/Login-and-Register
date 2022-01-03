@@ -1,4 +1,4 @@
-﻿Imports System.Data.Odbc
+﻿Imports MySql.Data.MySqlClient
 Public Class sign_in
 
     Private Sub Label3_Click(sender As Object, e As EventArgs) Handles Label3.Click
@@ -12,16 +12,16 @@ Public Class sign_in
 
     Private Sub GunaButton1_Click(sender As Object, e As EventArgs) Handles GunaButton1.Click
         If GunaTextBox1.Text = "" Or GunaTextBox2.Text = "" Then
-            MessageBox.Show("Username atau Password Anda Masih Kosong")
+            MessageBox.Show("Password and Username are still empty")
         Else
             Call koneksi()
-            Cmd = New OdbcCommand("select * from tbl_user where username = '" & GunaTextBox1.Text & "' and password = '" & GunaTextBox2.Text & "'", Conn)
+            Cmd = New MySqlCommand("select * from tbl_user where username = '" & GunaTextBox1.Text & "' and password = '" & GunaTextBox2.Text & "'", Conn)
             Rd = Cmd.ExecuteReader
             Rd.Read()
             If Rd.HasRows = True Then
                 MessageBox.Show("Your Account is linked, Thank you")
             Else
-                MessageBox.Show("Password atau Username Anda Salah")
+                MessageBox.Show("Your Password and Username is wrong")
             End If
         End If
     End Sub

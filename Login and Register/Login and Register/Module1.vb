@@ -1,15 +1,18 @@
-﻿Imports System.Data.Odbc
+﻿Imports MySql.Data.MySqlClient
 Module Module1
-    Public Conn As OdbcConnection
-    Public Da As OdbcDataAdapter
+    Public Conn As MySqlConnection
+    Public Da As MySqlDataAdapter
     Public Ds As DataSet
-    Public Rd As OdbcDataReader
-    Public Cmd As OdbcCommand
+    Public Rd As MySqlDataReader
+    Public Cmd As MySqlCommand
+    Public sql As String
     Public Sub koneksi()
-        Conn = New OdbcConnection("dsn=dsn_game")
-        If Conn.State = ConnectionState.Closed Then
+        Conn = New MySqlConnection("Data Source=localhost;user id=root;database=db_dashboard_game;")
+        Try
             Conn.Open()
-        End If
+        Catch ex As Exception
+            MsgBox("Error in connection, please check the database and connection server.", vbCritical, "System Demo Only")
+            End
+        End Try
     End Sub
-
 End Module

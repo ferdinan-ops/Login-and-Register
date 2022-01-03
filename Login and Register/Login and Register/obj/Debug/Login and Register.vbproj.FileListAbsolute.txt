@@ -1,2 +1,15 @@
 C:\Users\ASUS\AppData\Local\Temporary Projects\Login and Register\bin\Debug\Login and Register.exe.config
 D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Login and Register.exe.config
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Login and Register.exe
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Login and Register.pdb
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Login and Register.xml
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login and Register.vbprojResolveAssemblyReference.cache
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login_and_Register.foto.resources
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login_and_Register.register.resources
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login_and_Register.sign_in.resources
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login_and_Register.Resources.resources
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login and Register.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login and Register.exe
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login and Register.xml
+D:\Semua Projek VB.Net\Login and Register\Login and Register\Login and Register\obj\Debug\Login and Register.pdb
