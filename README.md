@@ -12,7 +12,7 @@ In this login and register project I use Microsoft Visual Studio 2012 for IDE wi
   <li><b>CI/CD:</b> Github</li>
 </ol>
 
-# How To Use
+<h2>How To Use</h2>
 You can do the following steps:
 1. Download Visual Studio 2010/2012/2019
 2. Download Games-dashboard repository if you dont have it 
@@ -22,6 +22,7 @@ You can do the following steps:
 6. Find the "login_and_register" project in "Login and Register" folder and openthe file with visual stu
 
 <h1>ScreenShoots</h1>
+
 # Login
 ![demo1](https://user-images.githubusercontent.com/84588706/140851958-8fed1849-97ba-4366-87d4-161e180b8239.png)
 
