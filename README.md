@@ -3,6 +3,15 @@ Login and register advanced projects from the game dashboard. I created a login 
 
 In this login and register project I use Microsoft Visual Studio 2012 for IDE with Visual Basic programming language for programing language, GUNA UI for framework, and MySQL for database.
 
+<h2>What I Used</h2>
+<ol>
+  <li><b>Programing Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>IDE:</b> Microsof Visual Studio 2012</li>
+  <li><b>Database:</b> MySQL</li>
+  <li><b>CI/CD:</b> Github</li>
+</ol>
+
 # How To Use
 You can do the following steps:
 1. Download Visual Studio 2010/2012/2019
@@ -12,6 +21,7 @@ You can do the following steps:
 5. Open the "Login and Register" folder - scroll down and find the "file export database" folder and import to your database
 6. Find the "login_and_register" project in "Login and Register" folder and openthe file with visual stu
 
+<h1>ScreenShoots</h1>
 # Login
 ![demo1](https://user-images.githubusercontent.com/84588706/140851958-8fed1849-97ba-4366-87d4-161e180b8239.png)
 
